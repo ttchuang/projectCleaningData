@@ -2,7 +2,7 @@
 
 The run_analysis.R script retrieves six files of raw observations and calcaulates means of 66 variables for each activity and each subject.
 
-The run_analysis.R consists of nine sections of code:
+The run_analysis.R file consists of nine sections of code:
 
 ### Set the working directory:
 =========================
