@@ -1,6 +1,6 @@
 Each varialbe is described with the defintion, the data type and the value range. 
 
-* subject: participants in the experiement, character, range [1,30]
+* subject: participants in the experiment, character, range [1,30]
 * activity: activity performed by subjects in the experiment, character and range [walking, walkingUpstairs, walkingDownstairs, sitting, standing, laying]
 * tBodyAccelerationMeanX: normalized mean of body acceleration in X-axis in the time domain, floating points and range [-1,1] 
 * tBodyAccelerationMeanY: normalized mean of body acceleration in Y-axis in the time domain, floating points and range [-1,1] 
